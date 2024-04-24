@@ -5,7 +5,7 @@ int main ()
 {
 	KeyboardInit();
 	ServoInit(20);
-//gittest2
+//gittest3
 	
 	while(1)
 	{
